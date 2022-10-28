@@ -1,0 +1,13 @@
+target/**
+.project
+.classpath
+*.prefs
+*.class
+bin/**
+*.log
+.settings/application.properties
+props.env
+.factorypath
+openapi.json
+io.avaje.http.client.HttpApiProvider
+io.avaje.inject.spi.Module
